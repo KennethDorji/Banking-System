@@ -1,0 +1,19 @@
+1. New Features of Java 8
+2. What is lambda expression?
+3. what is Functional Interfaces? @FunctionalInterface
+4. what is default and static methods in Interfaces?
+5. what is stream API?
+
+
+1. What is the difference between runnable and callable in Java?
+Ans : A callable interface throws the checked exception and returns the result. 
+	  A runnable interface, on the other hand, does not return a result and cannot throw a checked exception.
+	  
+2. Diff b/w List and Set interface
+
+3. Diff b/w ArrayList and Array?
+
+4. Diff b/w ArrayList and LinkedList?
+
+5. Can you explain internal working of HashMap?
+
